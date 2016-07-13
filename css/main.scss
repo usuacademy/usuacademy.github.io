@@ -1,0 +1,66 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
+@import
+  "bourbon/bourbon",
+  "base/base",
+  "neat/neat",
+  "layout"
+;
+
+
+
+	.wrapper {
+		padding: 5em 0 3em 0;
+		
+		&.style1 {
+			background: #fff;
+		}
+		
+		&.style2 {
+			background-color:		#fff;
+			background-image:		url('images/bg02.png'),			url('images/bg03.png'),			url('images/bg01.png');
+			background-position:	top left,						bottom left,					top left;
+			background-size:		100% 6em,						100% 6em,						auto;
+			background-repeat:		no-repeat,						no-repeat,						repeat;
+		}
+		
+		&.style3 {
+			
+		}
+	}
+
+
+	.box {
+		&.highlight {
+			text-align: center;
+		}	
+
+		&.post {
+			position: relative;
+			margin: 0 0 2em 0;
+			
+			&:after {
+				content: '';
+				display: block;
+				clear: both;
+			}
+			
+			.inner {
+				margin-left: calc(30% + 2em);
+				
+				> :last-child {
+					margin-bottom: 0;
+				}
+			}
+
+			.image {
+				width: 30%;
+				margin: 0;
+			}
+		}
+	}
