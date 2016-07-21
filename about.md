@@ -8,6 +8,11 @@ permalink: /about/
 
 ## USU연혁
 
+## 공지사항
+ * 개강
+ * 설명회
+ * 다다다
+
 
 ## GRACE
 * 2006: GEOS (IELTS)
