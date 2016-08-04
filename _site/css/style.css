@@ -492,6 +492,14 @@
 				display: block;
 				width: 100%;
 			}
+		
+		.image.content {
+			display: block;
+			margin: 0 auto;
+			width: 80% !important;
+            max-height: 480px;
+		}
+
 
 /* List */
 
