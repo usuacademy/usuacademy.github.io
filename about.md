@@ -1,24 +1,42 @@
 ---
 layout: post
 permalink: /about/
+title:  "ABOUT"
+meta: "USU 유학은 어떤 학원인가"
+
 ---
 
-{: .align-center}
-## USU 유학컨설팅 주요업무내용
 
-{: .align-center}
-해외유학관련기관 및 해외대학교 업무협약
-
-{: .align-center}
-유학컨설팅: 목표대학선정->교육->입학수속
-
-{: .align-center}
-성공적인 입학준비 데이터축적+사례분석상담
+<img src="{{ site.baseurl }}/images/aboutil/about1.png" class="alone image">
 
 <br><br><br>
 
-{: .align-center}
-## USU 유학컨설팅
+
+<img src="{{ site.baseurl }}/images/aboutil/about2.png" class="alone image">
+
+<br><br><br>
+
+
+<img src="{{ site.baseurl }}/images/aboutil/about3.png" class="alone image">
+
+<br><br><br>
+
+
+<img src="{{ site.baseurl }}/images/aboutil/about4.png" class="alone image">
+
+<br><br><br>
+
+
+<img src="{{ site.baseurl }}/images/aboutil/about5.png" class="alone image">
+
+<br><br><br>
+
+<img src="{{ site.baseurl }}/images/aboutil/about6.png" class="alone image">
+
+
+<br><br><br>
+
+<img src="{{ site.baseurl }}/images/aboutil/about7.png" class="alone image">
 
 <img src="{{ site.baseurl }}/images/about/pic1.jpg" class="content image">
 
